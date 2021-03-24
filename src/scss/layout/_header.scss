@@ -1,0 +1,10 @@
+header{
+    background-color: $verde;
+    .header__containt{ 
+        display: flex;
+        justify-content: space-between;
+        .navegacion__principal{
+            display: flex;
+        }
+    }
+}
